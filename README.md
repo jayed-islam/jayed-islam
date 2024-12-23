@@ -10,34 +10,17 @@
 </p>
 
 
-
-<p align="center">
-  <a href="mailto:jayed.islam@example.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
-  </a>
-  <a href="https://jayed-islam-portfolio.com">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
-  </a>
-  <a href="https://t.me/jayed-islam">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/jayed-islam">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/jayed_islam">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-</p>
-
 ## :mailbox: Reach Me Out
 
 <br />
 
-[<p align="center"><img height="75" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"></a>](https://www.linkedin.com/in/jayed-islam/) 
-[<img height="75" src="https://img.icons8.com/ios-filled/50/000000/facebook.png">](https://www.facebook.com/jayed.islam.12) 
-[<img height="75" src="https://img.icons8.com/ios-filled/50/000000/twitter.png">](https://twitter.com/jayed_islam) 
-[<img height="75" src="https://img.icons8.com/ios-filled/50/000000/instagram.png">](https://www.instagram.com/jayed_islam/) 
-[<img height="75" src="https://img.icons8.com/ios-filled/50/000000/mail.png">](mailto:jayed.islam@example.com)
+<p align="center">
+  [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="48">](mailto:jayedbgh@gmail)
+  [<img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="48">](https://jayedulislam.vercel.app)
+  [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="48">](https://t.me/jayedulislamkn)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="48">](https://www.linkedin.com/in/jayedulislam)
+  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="48">](https://www.instagram.com/jayed_islam)
+</p>
 
 <br />
 
