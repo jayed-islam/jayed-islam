@@ -2,7 +2,16 @@
 
 ### 🌱 I'm a Full Stack Developer and Flutter Developer
 Passionate about coding, open source, and continuous learning.
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
 
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=jayed-islam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
 ## 📈 GitHub Stats
