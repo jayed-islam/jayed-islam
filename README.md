@@ -104,14 +104,7 @@
   <div style="text-align: center; margin-bottom: 20px;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
   </div>
-  
-  <h3 style="font-size: 1.8em; color: #333; margin-top: 40px;">:snake: Snake Animation</h3>
-  
-  <p style="font-size: 1.2em; color: #555;">Watch me grow on GitHub, just like a snake!</p>
-  
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/jayed-islam/jayed-islam/output/snake.svg" alt="Snake animation" />
-  </p>
+
 </section>
 
 
