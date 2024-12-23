@@ -90,14 +90,29 @@
 
 <br />
 
-## :muscle: GitHub Stats
+<section style="margin: 40px 0; text-align: center;">
+  <h2 style="font-size: 2em; font-weight: bold; color: #333;">:muscle: GitHub Stats</h2>
+  
+  <p style="font-size: 1.2em; color: #555;">A glance at my GitHub contributions and stats!</p>
+  
+  <p align="center">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  </p>
+  
+  <h3 style="font-size: 1.8em; color: #333; margin-top: 40px;">:bar_chart: GitHub Activity</h3>
+  
+  <div style="text-align: center; margin-bottom: 20px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
+  </div>
+  
+  <h3 style="font-size: 1.8em; color: #333; margin-top: 40px;">:snake: Snake Animation</h3>
+  
+  <p style="font-size: 1.2em; color: #555;">Watch me grow on GitHub, just like a snake!</p>
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/jayed-islam/jayed-islam/output/snake.svg" alt="Snake animation" />
+  </p>
+</section>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 
