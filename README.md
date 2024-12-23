@@ -9,6 +9,26 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=jayed-islam&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
+
+
+<p align="center">
+  <a href="mailto:jayed.islam@example.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
+  </a>
+  <a href="https://jayed-islam-portfolio.com">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
+  </a>
+  <a href="https://t.me/jayed-islam">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayed-islam">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jayed_islam">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+</p>
+
 ## :mailbox: Reach Me Out
 
 <br />
