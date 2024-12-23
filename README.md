@@ -38,7 +38,7 @@
 ## :eyes: Current Overview
 
 <div align="left">
-<a href="https://app.daily.dev/jayed">
+<a href="https://app.daily.dev/jayedulislam">
   <img align="right" src="https://github.com/jayed-islam/jayed-islam/blob/main/devcard.svg" width="200" alt="Dev Card" />
 </a>
 </div>
