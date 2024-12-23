@@ -1,4 +1,14 @@
-# 👋 Hello, I'm Jayed Islam
+## 🔭 I’m working at
+- Programming Hero
+
+## 🌱 I’m exploring
+- Advanced motion graphics for the web.
+
+## 👯 I’m looking to collaborate on
+- Open-source projects.
+
+## 🤔 I’m trying to help
+- People learn web development.
 
 ### 🌱 I'm a Full Stack Developer and Flutter Developer
 Passionate about coding, open source, and continuous learning.
