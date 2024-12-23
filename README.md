@@ -1,5 +1,5 @@
 <a href="https://www.facebook.com/jayed.islam.12">
-  <img src="https://raw.githubusercontent.com/jayed-islam/jayed-islam/main/images/cover.svg" />
+![logo](https://github.com/jayed-phero/jayed-phero/blob/main/banner.png)
 </a>
 
 ## :chart_with_upwards_trend: Current Stats
