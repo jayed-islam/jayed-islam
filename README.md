@@ -67,9 +67,7 @@
 
 ## :eyes: Current Overview
 
-<div align="left">
-<a href="https://app.daily.dev/jayed"><img align="right" src="https://github.com/jayed-islam/jayed-islam/blob/main/devcard.svg" width="200" alt="Jayed Islam's Dev Card"/></a>
-</div>
+
 
 ### 🔭 I’m working - at [As-Sunnah Foundation](https://assunnahfoundation.org).  
 ### 🌱 I’m exploring - SQL with Prisma.  
