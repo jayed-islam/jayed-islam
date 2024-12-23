@@ -33,14 +33,6 @@
 </p>
 
 
-<p align="center">
-  [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="48">](mailto:jayedbgh@gmail)
-  [<img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="48">](https://jayedulislam.vercel.app)
-  [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="48">](https://t.me/jayedulislamkn)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="48">](https://www.linkedin.com/in/jayedulislam)
-  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="48">](https://www.instagram.com/jayed_islam)
-</p>
-
 <br />
 
 ## :computer: Technologies That I Know
@@ -76,20 +68,14 @@
 <a href="https://app.daily.dev/jayed"><img align="right" src="https://github.com/jayed-islam/jayed-islam/blob/main/devcard.svg" width="200" alt="Jayed Islam's Dev Card"/></a>
 </div>
 
-### 🔭 I’m working - Full-stack Developer (JavaScript/TypeScript) at [Programming Hero](https://programminghero.com).  
-### 🌱 I’m exploring - Advanced motion graphics for web development.  
+### 🔭 I’m working - at [As-Sunnah Foundation](https://assunnahfoundation.org).  
+### 🌱 I’m exploring - SQL with Prisma.  
 ### 👯 I’m looking - To collaborate on open-source projects.  
-### 🤔 I’m trying - To help people learn web development.  
-### ⚡ Fun fact - I love to make complex origami and can speak 5 languages.  
+### 🤔 I’m trying - to make me experienced.  
 
 <br />
 
-## :book: My Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Common interview questions that you need to know as a junior JavaScript developer.](https://dev.to/jayed/common-interview-questions-that-you-need-to-know-as-a-junior-javascript-developer-29a6)
-- [What the heck is JSX in React.](https://dev.to/jayed/what-the-heck-is-jsx-in-react-3f0a)
-- [A cleaner approach to writing JavaScript.](https://dev.to/jayed/a-cleaner-approach-to-write-javascript-bonus-tips-in-the-end-58ng)
-<!-- BLOG-POST-LIST:END -->
+
 
 <br />
 
@@ -97,9 +83,5 @@
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayed-islam&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
