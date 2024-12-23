@@ -97,8 +97,7 @@
 </p>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <h2>My Achievements</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&column=3&no-frame=true" alt="GitHub Trophy" style="max-width: 100%; max-height: 300px; object-fit: cover;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 
