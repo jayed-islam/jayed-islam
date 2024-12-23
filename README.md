@@ -96,3 +96,9 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <h2>My Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&column=3&no-frame=true" alt="GitHub Trophy" style="max-width: 100%; max-height: 300px; object-fit: cover;" />
+</div>
+
+
