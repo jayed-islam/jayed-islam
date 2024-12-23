@@ -42,19 +42,17 @@ A sleek and interactive portfolio showcasing my skills, projects, and profession
 
 ---
 
-## 📊 Real-Time GitHub Activity
+## 📊 Real-Time GitHub Stats
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayed-islam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=jayed-islam&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayed-islam&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -86,23 +84,3 @@ A sleek and interactive portfolio showcasing my skills, projects, and profession
 <p align="center">
   <i>"Empowering businesses and individuals through transformative digital solutions."</i>  
 </p>
-
----
-
-## 🔧 How to Keep It Dynamic  
-
-1. **Activity Graph**:  
-   Replace `https://activity-graph.herokuapp.com` with an updated service like `metrics.lecoq.io`.  
-
-2. **Real-Time Updates**:  
-   Use GitHub Actions to auto-update the last updated date or dynamically fetch new data.  
-
-3. **Banner Image**:  
-   Replace `https://your-image-link.com/banner.png` with a hosted tech-themed image to enhance professionalism.  
-
-4. **Project Highlights**:  
-   Ensure project links are updated regularly, showcasing your most recent and impactful work.  
-
----
-
-This design focuses on **visual appeal**, **dynamic updates**, and a **professional tone**. It ensures that visitors see you as an active and competent developer. Let me know if you'd like help implementing automation for real-time updates or creating the banner image! 🚀
