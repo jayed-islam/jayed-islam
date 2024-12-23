@@ -6,7 +6,7 @@
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <h2>Welcome to My GIthub Account</h2>
+  <h2>Welcome to My Github Account</h2>
   <p>
     I am a Full Stack Developer with expertise in creating dynamic and scalable web applications. I work with modern technologies like <strong>React</strong>, <strong>Next.js</strong>, and <strong>Typescript</strong>, and I have experience with both MongoDB and SQL databases. My goal is to deliver seamless user experiences and high-performance solutions.
   </p>
