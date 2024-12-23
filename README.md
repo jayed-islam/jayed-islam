@@ -1,3 +1,8 @@
+<div align="left">
+<a href="https://app.daily.dev/jayedulislam"></a>
+</div>
+
+
 ## 🔭 I’m working at
 - Programming Hero
 
