@@ -15,11 +15,21 @@
 <br />
 
 <p align="center">
-  [<img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" height="48">](mailto:jayed.islam@example.com)
-  [<img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" height="48">](https://jayed-islam-portfolio.com)
-  [<img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="48">](https://t.me/jayed-islam)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="48">](https://www.linkedin.com/in/jayed-islam)
-  [<img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="48">](https://www.instagram.com/jayed_islam)
+  <a href="mailto:jayedbgh@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
+  </a>
+  <a href="https://jayedulislam.vercel.app">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/jayedulislamkn">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayedulislam">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/jayed_islam">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
 </p>
 
 
