@@ -1,6 +1,9 @@
-<a href="https://www.facebook.com/jayed.islam.12">
-![logo](https://github.com/jayed-phero/jayed-phero/blob/main/banner.png)
-</a>
+<!-- Banner Section -->
+<div style="text-align: center; width: 100%; margin-bottom: 20px;">
+  <a href="https://jayedulislam.vercel.app" target="_blank">
+    <img src="https://res.cloudinary.com/di7o4h9e3/image/upload/v1734975818/banner_vmv0ev.png" alt="Banner" style="width: 100%; max-height: 300px; object-fit: cover;"/>
+  </a>
+</div>
 
 ## :chart_with_upwards_trend: Current Stats
 
