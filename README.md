@@ -21,6 +21,7 @@
 <p align="center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jayed-islam&theme=onedark)](https://git.io/streak-stats)
 </p>
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=jayed-islam&theme=onedark)](https://git.io/streak-stats)
 
 
 
