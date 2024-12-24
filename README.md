@@ -15,11 +15,11 @@
   </p>
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: My Current Commit Stats
 
 <br />
 <p align="center">
-    <img src="https://github-contributions.vercel.app/api/v1/jayed-islam" alt="GitHub Contributions Stats" />
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jayed-islam&theme=onedark)](https://git.io/streak-stats)
 </p>
 
 
