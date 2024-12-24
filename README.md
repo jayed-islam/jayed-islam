@@ -19,9 +19,10 @@
 
 <br />
 <p align="center">
-![GitHub last commit](https://img.shields.io/github/last-commit/jayed-islam/{repository})
-
+    <img src="https://github-contributions.vercel.app/api/v1/jayed-islam" alt="GitHub Contributions Stats" />
 </p>
+
+
 
 
 ## :mailbox: Reach Me Out
