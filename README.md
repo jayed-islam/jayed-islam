@@ -23,7 +23,8 @@
 </p>
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=jayed-islam&theme=onedark)](https://git.io/streak-stats)
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ahmedullah12&theme=onedark)](https://git.io/streak-stats)
- <img width="60%" src="https://nirzak-streak-stats.vercel.app?user=ahmedullah12&theme=onedark" alt="GitHub Stats" />
+ <img width="60%" src="https://nirzak-streak-stats.vercel.app?user=jayed-islam&theme=github-dark&hide_border=true" alt="GitHub Stats" />
+ <img width="60%" src="https://nirzak-streak-stats.vercel.app?user=jayed-islam&theme=onedark" alt="GitHub Stats" />
 
 
 ## :mailbox: Reach Me Out
