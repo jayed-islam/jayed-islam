@@ -17,6 +17,10 @@
 
 ## :chart_with_upwards_trend: My Current Commit Stats
 
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=jayed-islam&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jayed-islam&theme=react&hide_border=true" alt="GitHub Streak Stats" />
+
+
 <br />
 <p align="center">
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jayed-islam&theme=onedark)](https://git.io/streak-stats)
